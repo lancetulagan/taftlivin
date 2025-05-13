@@ -136,13 +136,6 @@ Regular User:
 - Email: user@email.com
 - Password: password123
 
-## Contributors
-
-- Lance Tulagan (lance_tulagan@dlsu.edu.ph)
-- Ivan Boado (jorem_boado@dlsu.edu.ph)
-- Yuyang Guo (yuyang_guo@dlsu.edu.ph)
-- Mark Pineda (mark_pineda@dlsu.edu.ph)
-
 ## License
 
 © 2025 TaftLivin. All Rights Reserved.
