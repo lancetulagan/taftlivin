@@ -1,5 +1,14 @@
 # TaftLivin - Condo & Dorm Reviews Near DLSU
 
+
+
+https://github.com/user-attachments/assets/4d80843d-41d5-4efd-98a7-54245dfd926c
+
+
+
+
+
+
 TaftLivin is a comprehensive web platform that helps DLSU students find, review, and explore dormitories and condominiums in the Taft Avenue area. The application features condo listings, user reviews, and forums where students can discuss housing options and share experiences.
 
 ## Features
